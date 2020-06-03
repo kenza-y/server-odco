@@ -1,0 +1,279 @@
+{
+  "secteurs":[
+{
+ "id": 1,
+ "secteur": "Agriculture",
+ "pourcentage": 67.01,
+ "pourcentage_adherents": 73.39,
+ "capital": 23.97,
+ "nombre_adherents":{
+   "moins_20":7466,
+   "entre20_49":1607,
+   "entre50_249":1297,
+   "plus_250":170
+ }
+},
+{
+ "id": 2,
+ "secteur": "Artisanat",
+ "pourcentage": 15.87,
+ "pourcentage_adherents": 7.35,
+ "capital" : 1.89,
+ "nombre_adherents":{
+   "moins_20":2143,
+   "entre20_49":255,
+   "entre50_249":94,
+   "plus_250":5
+ }
+},
+{
+ "id": 3,
+ "secteur": "Habitat",
+ "pourcentage": 7.27,
+ "pourcentage_adherents": 10.39,
+ "capital": 73.32,
+ "nombre_adherents":{
+   "moins_20":519,
+   "entre20_49":356,
+   "entre50_249":252,
+   "plus_250":18
+ }
+},
+{
+ "id": 4,
+ "secteur": "Argane",
+ "pourcentage": 1.90,
+ "pourcentage_adherents": 1.54,
+ "capital": 0.04,
+ "nombre_adherents":{
+   "moins_20":145,
+   "entre20_49":127,
+   "entre50_249":27,
+   "plus_250":0
+ }
+},
+{
+ "id": 5,
+ "secteur": "Forêt",
+ "pourcentage": 1.50,
+ "pourcentage_adherents": 2.04,
+ "capital" : 0.14,
+ "nombre_adherents":{
+   "moins_20":110,
+   "entre20_49":62,
+   "entre50_249":60,
+   "plus_250":3
+ }
+},
+{
+ "id": 6,
+ "secteur": "Autre",
+ "pourcentage": 6.45,
+ "pourcentage_adherents": 5.29,
+ "capital": 0.64,
+ "nombre_adherents":{
+   "moins_20":783,
+   "entre20_49":143,
+   "entre50_249":73,
+   "plus_250":18
+ }
+}
+],
+"regions":[
+{
+  "id": 1,
+  "region":"Casablanca-Settat",
+  "pourcentage_adherents":15.89,
+  "capital":35.87,
+  "nombre_adherents":{
+    "moins_20":899,
+    "entre20_49":430,
+    "entre50_249":414,
+    "plus_250":36
+  }
+},
+{
+  "id": 2,
+"region":"Marrakech-Safi",
+"pourcentage_adherents":14.78,
+"capital":9.22,
+"nombre_adherents":{
+  "moins_20":863,
+  "entre20_49":300,
+  "entre50_249":207,
+  "plus_250":36
+}
+},
+{
+  "id": 3,
+  "region":"Béni Mellal-Khénifra",
+  "pourcentage_adherents":11.80,
+  "capital":3.96,
+  "nombre_adherents":{
+    "moins_20":659,
+    "entre20_49":265,
+    "entre50_249":256,
+    "plus_250":1
+  }
+
+},
+{
+  "id": 4,
+  "region":"l'Oriental",
+  "pourcentage_adherents":10.99,
+  "capital":8.15,
+  "nombre_adherents":{
+    "moins_20":791,
+    "entre20_49":209,
+    "entre50_249":179,
+    "plus_250":36
+  }
+},
+{
+  "id": 5,
+  "region":"Rabat - Salé - Kenitra",
+  "pourcentage_adherents":9.43,
+  "capital":14.13,
+  "nombre_adherents":{
+    "moins_20":1191,
+    "entre20_49":261,
+    "entre50_249":199,
+    "plus_250":14
+  }
+
+},
+{
+  "id": 6,
+  "region":"Drâa-Tafilalet",
+  "pourcentage_adherents":8.53,
+  "capital":1.44,
+  "nombre_adherents":{
+    "moins_20":583,
+    "entre20_49":235,
+    "entre50_249":157,
+    "plus_250":24
+  }
+},
+{
+  "id": 7,
+  "region":"Tanger-Tetouan - Al Hoceima",
+  "pourcentage_adherents":8.09,
+    "capital":6.11,
+    "nombre_adherents":{
+      "moins_20":1102,
+      "entre20_49":221,
+      "entre50_249":154,
+      "plus_250":8
+    }
+},
+{
+  "id": 8,
+  "region":"Souss - Massa",
+  "pourcentage_adherents":7.87,
+  "capital":35.87,
+  "nombre_adherents":{
+    "moins_20":963,
+    "entre20_49":289,
+    "entre50_249":19,
+    "plus_250":1395
+  }
+},
+{
+  "id": 9,
+  "region":"Fes - Meknes",
+  "pourcentage_adherents":7.48,
+  "capital":6.47,
+  "nombre_adherents":{
+    "moins_20":1474,
+    "entre20_49":258,
+    "entre50_249":90,
+    "plus_250":13
+  }
+
+},
+{
+  "id": 10,
+  "region":"Laayoune - Sakia El Hamra",
+  "pourcentage_adherents":2.35,
+    "capital":0.20,
+    "nombre_adherents":{
+      "moins_20":1253,
+      "entre20_49":31,
+      "entre50_249":1,
+      "plus_250":170
+    }
+
+},
+{
+  "id": 11,
+  "region":"Guelmim-Oued Noun",
+  "pourcentage_adherents":2.28,
+    "capital":0.91,
+    "nombre_adherents":{
+      "moins_20":1101,
+      "entre20_49":41,
+      "entre50_249":14,
+      "plus_250":1
+    }
+
+},
+{
+  "id": 12,
+  "region":"Dakhla -Oued Ed Dahab",
+  "pourcentage_adherents":0.51,
+    "capital":0.05,
+    "nombre_adherents":{
+      "moins_20":287,
+      "entre20_49":10,
+      "entre50_249":1,
+      "plus_250":0
+    }
+}
+
+],
+"totalcapital": [{
+  "total" : 6449841472
+  }],
+  "totalcooperatives": [{
+    "total" : 15623
+    }],
+  "totaladherents": [{
+    "total": 484124
+    }],
+"cooperatives": [
+   {
+     "id": 1,
+     "nom_coop": "Najah",
+      "date_creation": "12-12-2017",
+      "secteur" : "Agriculture",
+      "employee_femmes" : 22,
+       "employee_hommes": 31,
+       "région" : "L'Oriental",
+       "chiffreaffaires" : 10000
+       },
+     {
+       "id": 2,
+       "nom_coop": "Arramz",
+        "date_creation": "10-02-2015",
+        "secteur" : "Agriculture",
+        "employee_femmes" : 54,
+         "employee_hommes": 72,
+         "région" : "Fes-Meknes",
+         "chiffreaffaires" : 32500
+   },
+   {
+      "id": 3,
+      "nom_coop": "Arramz",
+      "date_creation": "10-02-2015",
+      "secteur" : "Artisanat",
+      "employee_femmes" : 28,
+       "employee_hommes": 46,
+       "region" : "Marrakech-Safi",
+       "chiffreaffaires" : 20000
+
+     }]
+
+
+
+
+}
